@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setup(
-    name="flitton_fib_py",
+    name="flitton-fib-py",
     version="0.0.1",
     author="Bin Fawzan Flitton",
     author_email="bin.fawzan@gmail.com",
